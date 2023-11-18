@@ -213,6 +213,20 @@ th {
   cursor: pointer;
 }
 
+.footer {
+  text-align: center;
+}
+
+.footer a {
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.footer a:hover {
+  color: darkred;
+}
+
 @media (max-width: 750px) {
   .skill-table{
     border-color: aqua;
