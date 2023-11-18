@@ -228,12 +228,12 @@ th {
 }
 
 @media (max-width: 750px) {
-  .skill-table{
+  .skill-table {
     border-color: aqua;
     max-width: 100%;
   }
 
-  .skill-table tbody tr td{
+  .skill-table tbody tr td {
     display: inline-block;
     margin: 1px 1px;
   }
